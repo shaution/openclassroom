@@ -1,4 +1,5 @@
 
 Programme de chasse PNJ
 
-gestion des robots de contrôle
+creation des robots de contrôle et parcours des profils
+maj du fichier des cibles
