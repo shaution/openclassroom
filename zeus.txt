@@ -2,3 +2,4 @@ Programme central
 Gestion des parametres d'environnement 
 Listing des PNJ
 Lancement des traitements de Pnj
+fichier de resultats
