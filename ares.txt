@@ -1,5 +1,5 @@
 
-Programme de chasse PNJ
+Programme de chasse PJ
 
 creation des robots de contrôle et parcours des profils
 maj du fichier des cibles
